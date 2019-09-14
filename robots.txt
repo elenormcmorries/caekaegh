@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eepheeyohl.185.199.108.153.xip.io/sitemap.xml
